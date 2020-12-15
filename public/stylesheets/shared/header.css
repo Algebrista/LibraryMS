@@ -36,6 +36,8 @@
   padding: 1rem;
 }
 
-.header-nav li a:hover, .header-title:hover {
-  color: white;
+.header-nav li a:hover,
+.header-title:hover {
+  /* color: white; */
+  color: skyblue;
 }

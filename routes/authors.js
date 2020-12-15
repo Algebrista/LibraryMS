@@ -40,7 +40,7 @@ router.get('/', async (req, res)=> {
      } catch {
              res.render('authors/new', {
              author: author,
-             errorMessage: 'Error Creting Author'
+             errorMessage: 'Error Creating Author'
      })
     }
  })
