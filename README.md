@@ -16,6 +16,8 @@ A LibraryMS which uses the CRUD functionality for Author and Books.
 ### [FilePond](https://github.com/pqina/filepond)
 In this project, I uses FilePond a JavaScript library that brings silky smooth drag and drop file uploading. These docs they will help install, setup, modify and extend FilePond.
 
+ * [Deployed App in Heroku](https://opowerlibrary.herokuapp.com)
+
 <h2>Connect with me!</h2>
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/augustine-matturi-293801b0/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/asymatturi/)
